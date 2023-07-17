@@ -57,7 +57,7 @@ If you encounter any issues or have any questions, please feel free to contact t
 
 ## Authors
 - Author 1 : MetacrafterChris  (Forked his starter template)
-- Author 2 : [Sutirtho Chakravorty](mailto:hosiyars281@gmail.com)
+- Author 2 : [Sutirtho Chakravorty](mailto:sutirthochakravorty@gmail.com)
 
 
 ## License
